@@ -1,7 +1,7 @@
 # Car Assistant
   This project shows a very basic application that uses voice recogition.
   
-  After seeing a tutotial on 'http://www.techrepublic.com/blog/software-engineer/make-your-next-android-app-a-good-listener/' ,
+  After seeing a tutorial on 'http://www.techrepublic.com/blog/software-engineer/make-your-next-android-app-a-good-listener/' ,
   I decided to modify and make and applicaiton that is very basic and can be used while driving.
   
   This application has a very small grammar but it can be added and improved.
